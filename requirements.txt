@@ -9,5 +9,3 @@ geopandas
 shapely
 pyproj
 fiona
-requests
-
